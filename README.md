@@ -8,6 +8,9 @@ https://www.youtube.com/watch?v=GFN0oyjk54c
 Demonstration of real drone:    
 https://www.youtube.com/watch?v=hncuU-by7Gc     
 
+![trajectory](imgs/traj.png?raw=true "Trajectory")
+![fly_data](imgs/graph.png?raw=true "Fly data")
+
 
 ### Required components    
    
